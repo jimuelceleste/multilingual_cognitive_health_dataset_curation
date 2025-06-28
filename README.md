@@ -1,4 +1,4 @@
-# Curation of Multilingual Cognitive Health Prediction with DementiaBank Datasets
+# Curation of Multilingual Cognitive Health Prediction Dataset with DementiaBank Datasets
 
 Four datasets from DementiaBank (https://talkbank.org/dementia/) were combined: 
 
