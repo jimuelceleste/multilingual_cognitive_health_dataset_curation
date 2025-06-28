@@ -11,4 +11,4 @@ This repository hosts the code used to merge the datasets (see scripts/ director
 
 It will be updated as the experiments progress.
 
-This research is under the supervision of Prof. Eleni Stroulia, University of Alberta, DementiaBank Member.
+This research is under the supervision of Prof. Eleni Stroulia, University of Alberta, Edmonton, Canada, DementiaBank Member.
