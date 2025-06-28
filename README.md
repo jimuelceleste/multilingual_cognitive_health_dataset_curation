@@ -1,0 +1,2 @@
+# multilingual_cognitive_health_prediction
+Curation of Multilingual Cognitive Health Prediction with DementiaBank Datasets
