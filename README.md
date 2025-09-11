@@ -1,6 +1,6 @@
 # Curation of Multilingual Cognitive Health and Speech Dataset with DementiaBank Benchmark Datasets
 
-We combined four benchmark datasets from [DementiaBank](https://talkbank.org/dementia/) (accessed through the account of DementiaBank Member Dr. Eleni Stroulia, Department of Computing Science, University of Alberta, Canada). Jupyter Notebooks in scripts directory (numbered from 1 to 12) detail this procedure. 
+Four DementiaBank benchmark datasets were combined: (1) ADReSS, (2) ADReSSo, (3) ADReSS-M, and (4) TAUKADIAL. The datasets were combined to investigate machine learning model performance on external validation scenarios. Scenarios include different language, speech task, and cognitive health status combinations. Results are presented in the Master's Thesis of Jimuel Celeste, Jr. (M.Sc. in Computing Science, University of Alberta, Canada). The datasets were accessed through the account of DementiaBank Member Prof. Eleni Stroulia (Dept. of Computing Science, UAlberta). This repository hosts the Jupyter Notebooks detailing the procedure (see scripts/ directory).
 
 1. ADReSS 2020 (English)([challenge link](https://luzs.gitlab.io/adress/)], [dementiabank link](https://talkbank.org/dementia/ADReSS-2020/index.html))
 2. ADReSSo 2021 (English) [challenge link](https://luzs.gitlab.io/adresso-2021/), [dementiabank link](https://talkbank.org/dementia/ADReSSo-2021/index.html))
