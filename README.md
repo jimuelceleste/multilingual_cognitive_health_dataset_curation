@@ -1,6 +1,6 @@
 # Curation of Multilingual Cognitive Health and Speech Dataset with DementiaBank Benchmark Datasets
 
-Four DementiaBank benchmark datasets were combined: (1) ADReSS, (2) ADReSSo, (3) ADReSS-M, and (4) TAUKADIAL (see scripts/ directory).
+Four DementiaBank benchmark datasets were combined (see scripts/ directory).
 
 1. ADReSS 2020 (English)([challenge link](https://luzs.gitlab.io/adress/), [dementiabank link](https://talkbank.org/dementia/ADReSS-2020/index.html))
 2. ADReSSo 2021 (English) [challenge link](https://luzs.gitlab.io/adresso-2021/), [dementiabank link](https://talkbank.org/dementia/ADReSSo-2021/index.html))
